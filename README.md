@@ -6,7 +6,7 @@
 </div>
 </br></br>
 
-### Sort algorythms:
+### Sort algorithms:
 - Bubble Sort;
 - Insertion Sort;
 - Selection Sort;
